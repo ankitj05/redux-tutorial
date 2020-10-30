@@ -1,4 +1,4 @@
-#Basic Redux tutorial repo.
+###Basic Redux tutorial repo.
 
 Here creating a store with 2 data points - counter, isLogged.
 
